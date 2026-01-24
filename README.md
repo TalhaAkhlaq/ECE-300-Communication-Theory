@@ -1,4 +1,4 @@
-# ECE-300-Communication-Theory
+# Communication Theory
 
 ## Copyright & Licensing
 
